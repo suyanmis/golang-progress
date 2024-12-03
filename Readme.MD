@@ -7,7 +7,7 @@ This table tracks my daily reading progress for **Learning Go 2nd Edition** and 
 | Date       | Learning Go 2nd Edition | The Go Programming Language |
 |------------|--------------------------|----------------------------|
 | Day 1      | ☑                        | ☑  ☑                       |
-| Day 2      | ☐                        | ☐  ☐                       |
+| Day 2      | ☑                        | ☑  ☑                       |
 | Day 3      | ☐                        | ☐  ☐                       |
 | Day 4      | ☐                        | ☐  ☐                       |
 | Day 5      | ☐                        | ☐  ☐                       |

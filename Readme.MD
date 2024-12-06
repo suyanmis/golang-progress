@@ -8,7 +8,7 @@ This table tracks my daily reading progress for **Learning Go 2nd Edition** and 
 |------------|--------------------------|----------------------------|
 | Day 1      | ☑                        | ☑  ☑                       |
 | Day 2      | ☑                        | ☑  ☑                       |
-| Day 3      | ☐                        | ☐  ☐                       |
+| Day 3      | ☑                        | ☑  ☑                       |
 | Day 4      | ☐                        | ☐  ☐                       |
 | Day 5      | ☐                        | ☐  ☐                       |
 | Day 6      | ☐                        | ☐  ☐                       |
@@ -34,4 +34,6 @@ This table tracks my daily reading progress for **Learning Go 2nd Edition** and 
    - Spend 2 hours reading **The Go Programming Language** and mark ☐ ☐ as ☑ ☑.
    - Use the **Notes** section to jot down any key points, reflections, or questions.
 
-Day 1 -> Chapter 2, 2.4 Assignments(The Go Programming Language)   |||| Chapter 3, copy(Learning Go)
+Day 1 -> Chapter 2, 2.4 Assignments(The Go Programming Language)           |||| Chapter 3, copy(Learning Go)
+Day 2 -> Chapter 2, 2.7 Scopes(The Go Programming Language)                |||| Chapter 3, Struct(Learning Go)
+Day 3 -> Chapter 3, 3.6 constants(The Go Programming Language)             |||| Chapter 4, break/continue(Learning Go)

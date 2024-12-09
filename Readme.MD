@@ -10,7 +10,7 @@ This table tracks my daily reading progress for **Learning Go 2nd Edition** and 
 | Day 2      | ☑                        | ☑  ☑                       |
 | Day 3      | ☑                        | ☑  ☑                       |
 | Day 4      | ☑                        | ☑  ☑                       |
-| Day 5      | ☑ ☑ ☑                    | ☐  ☐                       |
+| Day 5      | ☑ ☑ ☑                    | ☑  ☑                       |
 | Day 6      | ☐                        | ☐  ☐                       |
 | Day 7      | ☐                        | ☐  ☐                       |
 | Day 8      | ☐                        | ☐  ☐                       |
@@ -39,3 +39,4 @@ This table tracks my daily reading progress for **Learning Go 2nd Edition** and 
 - Day 3 -> Chapter 3, 3.6 constants(The Go Programming Language)             |||| Chapter 4, break/continue(Learning Go)
 - Day 4 -> Chapter 4, 4.3 maps(The Go Programming Language)                  |||| Chapter 5, functions(Learning Go)
 - Day 5 -> Chapter 4, 4.3 maps(The Go Programming Language)                  |||| Chapter 6, pointers(Learning Go)
+- Day 6 -> Chapter 4, 4.5 JSON(The Go Programming Language)                  |||| Chapter 6, pointers, Performance in pointers(Learning Go)

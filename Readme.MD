@@ -15,7 +15,7 @@ This table tracks my daily reading progress for **Learning Go 2nd Edition** and 
 | Day 7      | ☑                        | ☑  ☑                       |
 | Day 8      | ☑                        | ☑  ☑                       |
 | Day 9      | ☑                        | ☑  ☑                       |
-| Day 10     | ☐                        | ☐  ☐                       |
+| Day 10     | ☑                        | ☑  ☑                       |
 | Day 11     | ☐                        | ☐  ☐                       |
 | Day 12     | ☐                        | ☐  ☐                       |
 | Day 13     | ☐                        | ☐  ☐                       |
@@ -43,3 +43,4 @@ This table tracks my daily reading progress for **Learning Go 2nd Edition** and 
 - Day 7 -> Chapter 5, 5.5 Functions(The Go Programming Language)             |||| Chapter 7, Types, Performance in pointers(Learning Go)
 - Day 8 -> Chapter 6, 6.3 Methods(The Go Programming Language)               |||| Chapter 7, Interface Satisfaction (Learning Go)
 - Day 9 -> Chapter 7, 7.7 Http Handler(The Go Programming Language)          |||| Chapter 7, Interfaces and Nil (Learning Go)
+- Day 10 -> Chapter 7, 7.8 The error Interface(The Go Programming Language)  |||| Chapter 8, Generics (Learning Go)

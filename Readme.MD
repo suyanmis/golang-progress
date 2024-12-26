@@ -16,7 +16,7 @@ This table tracks my daily reading progress for **Learning Go 2nd Edition** and 
 | Day 8      | ☑                        | ☑  ☑                       |
 | Day 9      | ☑                        | ☑  ☑                       |
 | Day 10     | ☑                        | ☑  ☑                       |
-| Day 11     | ☐                        | ☐  ☐                       |
+| Day 11     | ☑                        | ☑  ☑                       |
 | Day 12     | ☐                        | ☐  ☐                       |
 | Day 13     | ☐                        | ☐  ☐                       |
 | Day 14     | ☐                        | ☐  ☐                       |
@@ -34,13 +34,14 @@ This table tracks my daily reading progress for **Learning Go 2nd Edition** and 
    - Spend 2 hours reading **The Go Programming Language** and mark ☐ ☐ as ☑ ☑.
    - Use the **Notes** section to jot down any key points, reflections, or questions.
 
-- Day 1 -> Chapter 2, 2.4 Assignments(The Go Programming Language)           |||| Chapter 3, copy(Learning Go)
-- Day 2 -> Chapter 2, 2.7 Scopes(The Go Programming Language)                |||| Chapter 3, Struct(Learning Go)
-- Day 3 -> Chapter 3, 3.6 constants(The Go Programming Language)             |||| Chapter 4, break/continue(Learning Go)
-- Day 4 -> Chapter 4, 4.3 maps(The Go Programming Language)                  |||| Chapter 5, functions(Learning Go)
-- Day 5 -> Chapter 4, 4.3 maps(The Go Programming Language)                  |||| Chapter 6, pointers(Learning Go)
-- Day 6 -> Chapter 4, 4.5 JSON(The Go Programming Language)                  |||| Chapter 6, pointers, Performance in pointers(Learning Go)
-- Day 7 -> Chapter 5, 5.5 Functions(The Go Programming Language)             |||| Chapter 7, Types, Performance in pointers(Learning Go)
-- Day 8 -> Chapter 6, 6.3 Methods(The Go Programming Language)               |||| Chapter 7, Interface Satisfaction (Learning Go)
-- Day 9 -> Chapter 7, 7.7 Http Handler(The Go Programming Language)          |||| Chapter 7, Interfaces and Nil (Learning Go)
-- Day 10 -> Chapter 7, 7.8 The error Interface(The Go Programming Language)  |||| Chapter 8, Generics (Learning Go)
+- Day 1  -> Chapter 2, 2.4 Assignments(The Go Programming Language)              |||| Chapter 3, copy(Learning Go)
+- Day 2  -> Chapter 2, 2.7 Scopes(The Go Programming Language)                   |||| Chapter 3, Struct(Learning Go)
+- Day 3  -> Chapter 3, 3.6 constants(The Go Programming Language)                |||| Chapter 4, break/continue(Learning Go)
+- Day 4  -> Chapter 4, 4.3 maps(The Go Programming Language)                     |||| Chapter 5, functions(Learning Go)
+- Day 5  -> Chapter 4, 4.3 maps(The Go Programming Language)                     |||| Chapter 6, pointers(Learning Go)
+- Day 6  -> Chapter 4, 4.5 JSON(The Go Programming Language)                     |||| Chapter 6, pointers, Performance in pointers(Learning Go)
+- Day 7  -> Chapter 5, 5.5 Functions(The Go Programming Language)                |||| Chapter 7, Types, Performance in pointers(Learning Go)
+- Day 8  -> Chapter 6, 6.3 Methods(The Go Programming Language)                  |||| Chapter 7, Interface Satisfaction (Learning Go)
+- Day 9  -> Chapter 7, 7.7 Http Handler(The Go Programming Language)             |||| Chapter 7, Interfaces and Nil (Learning Go)
+- Day 10 -> Chapter 7, 7.8 The error Interface(The Go Programming Language)      |||| Chapter 8, Generics (Learning Go)
+- Day 11 -> Chapter 8 Go Routines and Channels(The Go Programming Language)      |||| Chapter 8, Generics and Interfaces (Learning Go)

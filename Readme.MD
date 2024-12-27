@@ -45,3 +45,5 @@ This table tracks my daily reading progress for **Learning Go 2nd Edition** and 
 - Day 9  -> Chapter 7, 7.7 Http Handler(The Go Programming Language)             |||| Chapter 7, Interfaces and Nil (Learning Go)
 - Day 10 -> Chapter 7, 7.8 The error Interface(The Go Programming Language)      |||| Chapter 8, Generics (Learning Go)
 - Day 11 -> Chapter 8 Go Routines and Channels(The Go Programming Language)      |||| Chapter 8, Generics and Interfaces (Learning Go)
+- Day 12 -> Chapter 8 Buffered Channels       (The Go Programming Language)      |||| Chapter 8, Combining Generics with Generic Data (Learning Go)
+ 

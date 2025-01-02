@@ -1,10 +1,5 @@
 package main
 
-import (
-	"cmp"
-	"fmt"
-)
-
 type OrderableFunc[T any] func(t1, t2 T) int
 
 type Tree[T any] struct {
@@ -87,16 +82,17 @@ func (t *Tree[T]) Traversal() []T {
 	return t.root.Traversal()
 
 }
-func main() {
 
-	t1 := NewTree(cmp.Compare[int])
-	t1.Add(15)
-	t1.Add(10)
-	t1.Add(30)
-	t1.Add(15)
-	fmt.Println(t1.Contains(15))
-	fmt.Println(t1.Contains(40))
+// func main() {
 
-	fmt.Printf("t1.Traversal(): %v\n", t1.Traversal())
+// 	t1 := NewTree(cmp.Compare[int])
+// 	t1.Add(15)
+// 	t1.Add(10)
+// 	t1.Add(30)
+// 	t1.Add(15)
+// 	fmt.Println(t1.Contains(15))
+// 	fmt.Println(t1.Contains(40))
 
-}
+// 	fmt.Printf("t1.Traversal(): %v\n", t1.Traversal())
+
+// }
